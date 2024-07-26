@@ -2,7 +2,7 @@ from time import sleep
 from requests import get as rget
 from os import environ
 from logging import error as logerror
-from Bypass import BASE_URL, PORT
+from Terabox import BASE_URL, PORT
 
 if PORT is not None:
     while 1:
