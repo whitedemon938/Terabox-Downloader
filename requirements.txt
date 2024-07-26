@@ -1,3 +1,12 @@
-aiohttp
 aiofiles
+aiohttp
+aioshutil
+gunicorn
+flask
+motor
+pymongo
 pyroblack
+python-dotenv
+tgcrypto
+urllib3==1.26
+uvloop
